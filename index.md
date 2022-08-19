@@ -6,10 +6,10 @@ Organized by the [Department of Health Informatics](https://www.shrs.pitt.edu/hi
 ## Schedule
 
 
-| Date  | Topic | Speaker | Institution |
-| ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Jan 21, 2022  | AI for health care disparities: A double-edged sword  | Fei Wang  | Weil Cornell Medicine  |
+| Date  | Topic | Speaker | Institution | Recording |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Jan 21, 2022  | AI for health care disparities: A double-edged sword  | Fei Wang  | Weil Cornell Medicine  | Link |
 
 
 ## Contact
