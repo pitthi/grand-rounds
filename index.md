@@ -17,6 +17,6 @@
 
 
 ## Contact
-If you want to present, or have a question please contact [Dr. Yanshan Wang](https://sites.pitt.edu/~yaw89/) or [Dr. Ahmad Tafti](https://aptafti.github.io/).
+If you would like to present at the Health Informatics Grand Rounds, or have a question, please contact [Dr. Yanshan Wang](https://sites.pitt.edu/~yaw89/) or [Dr. Ahmad Tafti](https://aptafti.github.io/).
 
 
