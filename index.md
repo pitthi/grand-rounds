@@ -14,6 +14,6 @@ Organized by the [Department of Health Informatics](https://www.shrs.pitt.edu/hi
 
 
 ## Contact
-If you want to present, please contact [Dr. Yanshan Wang](https://sites.pitt.edu/~yaw89/) or [Dr. Ahmad Tafti](https://aptafti.github.io/).
+If you want to present, or have a question please contact [Dr. Yanshan Wang](https://sites.pitt.edu/~yaw89/) or [Dr. Ahmad Tafti](https://aptafti.github.io/).
 
 
