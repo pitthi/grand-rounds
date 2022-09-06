@@ -8,7 +8,7 @@ Organized by the [Department of Health Informatics](https://www.shrs.pitt.edu/hi
 
 | Date  | Topic | Speaker | Institution | Flyer | Recording |
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
-| Jan 21, 2022  | AI for health care disparities: A double-edged sword  | Fei Wang  | Weil Cornell Medicine  | [Link] (https://github.com/pitthi/grand-rounds/flyers/HI_GrandRounds_Jan2022.png| Link |
+| Jan 21, 2022  | AI for health care disparities: A double-edged sword  | Fei Wang  | Weil Cornell Medicine  | [Link]([https://github.com/pitthi/grand-rounds/flyers/HI_GrandRounds_Jan2022.png](https://github.com/pitthi/grand-rounds/blob/gh-pages/flyers/HI_GrandRounds_Jan2022.png)| Link |
 
 
 ## Contact
