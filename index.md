@@ -8,7 +8,7 @@ We aim to expose students to cutting-edge work in health informatics and to enga
 ## Schedule
 ### 2022:
 
-| <div style="width:290px">Date </div> | Topic | Speaker &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;| Institution &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; | Flyer | Recording |
+|<span style="display: inline-block; width:500px">Date </span> | Topic | Speaker &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;| Institution &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; | Flyer | Recording |
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
 | Jan 21, 2022  | AI for health care disparities: A double-edged sword  | Fei Wang, PhD  | Weil Cornell Medicine  | [Link](https://github.com/pitthi/grand-rounds/blob/gh-pages/flyers/HI_GrandRounds_Jan2022.png)| Link |
 | Aug 19, 2022  | Information content of high-order assiciations ofthe human gut microbiota netwrok  | Weston Viles, PhD  | The Roux Institute  | [Link](https://github.com/pitthi/grand-rounds/blob/gh-pages/flyers/HI_GrandRounds_Aug2022.png)| Link |
