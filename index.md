@@ -21,5 +21,6 @@ If you would like to present at the Health Informatics Grand Rounds, or have a q
 ## Sponsorship
 
 ![CBHL](https://github.com/pitthi/grand-rounds/blob/gh-pages/flyers/CBHL.jpg)
-![Knee joint space segmentation](https://github.com/aptafti/few_shot_image_segmentation/blob/main/9974855Ls.png)
+![PittResearch](https://github.com/pitthi/grand-rounds/blob/gh-pages/flyers/PittResearch-Research-Ethics-and-Society-Initiative.png)
+![IEEEComputerSociety](https://github.com/pitthi/grand-rounds/blob/gh-pages/flyers/IEEEComputerSociety.jpg)
 
