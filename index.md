@@ -29,4 +29,4 @@ If you would like to present at the Health Informatics Grand Rounds, or have a q
    <li> <img src="https:\\github.com\pitthi\grand-rounds\blob\gh-pages\flyers\CBHL.jpg" alt="Pitt CBHL"> </li>
     </ul>
 
-<img src="https://github.com/pitthi/grand-rounds/blob/gh-pages/flyers/CBHL.jpg" width=100 /> ![](https://github.com/pitthi/grand-rounds/blob/gh-pages/flyers/CBHL.jpg) 
+<img src="https://github.com/pitthi/grand-rounds/blob/gh-pages/flyers/CBHL.jpg" width=350 /> ![](https://github.com/pitthi/grand-rounds/blob/gh-pages/flyers/CBHL.jpg) 
