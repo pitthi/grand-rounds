@@ -18,4 +18,8 @@ We aim to expose students to cutting-edge work in health informatics and to enga
 ## Contact
 If you would like to present at the Health Informatics Grand Rounds, or have a question, please contact [Dr. Yanshan Wang](https://sites.pitt.edu/~yaw89/) or [Dr. Ahmad Tafti](https://aptafti.github.io/).
 
+## Sponsorship
+
+![Original X-ray](https://github.com/aptafti/few_shot_image_segmentation/blob/main/9974855L.png)
+![Knee joint space segmentation](https://github.com/aptafti/few_shot_image_segmentation/blob/main/9974855Ls.png)
 
