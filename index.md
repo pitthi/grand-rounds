@@ -10,7 +10,7 @@ We aim to expose students to cutting-edge work in health informatics and to enga
 
 |<span style="display: inline-block; width:110px">Date </span> | <span style="display: inline-block; width:215px">Topic</span> | <span style="display: inline-block; width:195px">Speaker</span> | <span style="display: inline-block; width:175px">Institution</span> | Flyer | Recording |
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
-| Jan 21, 2022  | AI for health care disparities: A double-edged sword  | Fei Wang, PhD  | Weil Cornell Medicine  | [Link](https://github.com/pitthi/grand-rounds/blob/gh-pages/flyers/HI_GrandRounds_Jan2022.png)| Link |
+| Jan 21, 2022  | AI for health care disparities: A double-edged sword  | [Fei Wang, PhD](https://weill.cornell.edu/faculty-highlight/fei-wang-phd)  | Weil Cornell Medicine  | [Link](https://github.com/pitthi/grand-rounds/blob/gh-pages/flyers/HI_GrandRounds_Jan2022.png)| Link |
 | Aug 19, 2022  | Information content of high-order assiciations ofthe human gut microbiota netwrok  | Weston Viles, PhD  | The Roux Institute  | [Link](https://github.com/pitthi/grand-rounds/blob/gh-pages/flyers/HI_GrandRounds_Aug2022.png)| Link |
 | Sep 23, 2022  | DySE - a framework that evolves to reason about complex systems  | Natasa Miskov-Zivanov, PhD  | University of Pittsburgh  | [Link](https://github.com/pitthi/grand-rounds/blob/gh-pages/flyers/HI_GrandRounds_Sep2022.png)| Link |
 | Oct 7, 2022  | Open Health Natural Language Processing (OHNLP) Initiative: A collaborative effort towards health NLP under the AI ethics framework  | Hongfang Liu, PhD  | Mayo Clinic  | [Link](https://github.com/pitthi/grand-rounds/blob/gh-pages/flyers/HI_GrandRounds_October2022.png)| Link |
