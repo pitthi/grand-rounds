@@ -25,7 +25,7 @@ If you would like to present at the Health Informatics Grand Rounds, or have a q
 ![IEEEComputerSociety](https://github.com/pitthi/grand-rounds/blob/gh-pages/flyers/IEEEComputerSociety.jpg)
 
 
-
-    <img src="https://github.com/pitthi/grand-rounds/blob/gh-pages/flyers/CBHL.jpg" alt="Pitt CBHL">
-    
+<ul>
+   <li> <img src="https://github.com/pitthi/grand-rounds/blob/gh-pages/flyers/CBHL.jpg" alt="Pitt CBHL"> </li>
+    </ul>
 
