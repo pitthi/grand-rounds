@@ -20,6 +20,6 @@ If you would like to present at the Health Informatics Grand Rounds, or have a q
 
 ## Sponsorship
 
-![Original X-ray](https://github.com/aptafti/few_shot_image_segmentation/blob/main/9974855L.png)
+![Original X-ray](https://github.com/pitthi/flyers/CBHL.jpg)
 ![Knee joint space segmentation](https://github.com/aptafti/few_shot_image_segmentation/blob/main/9974855Ls.png)
 
