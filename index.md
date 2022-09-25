@@ -13,9 +13,7 @@ We aim to expose students to cutting-edge work in health informatics and to enga
 | Jan 21, 2022  | AI for health care disparities: A double-edged sword  | Fei Wang, PhD  | Weil Cornell Medicine  | [Link](https://github.com/pitthi/grand-rounds/blob/gh-pages/flyers/HI_GrandRounds_Jan2022.png)| Link |
 | Aug 19, 2022  | Information content of high-order assiciations ofthe human gut microbiota netwrok  | Weston Viles, PhD  | The Roux Institute  | [Link](https://github.com/pitthi/grand-rounds/blob/gh-pages/flyers/HI_GrandRounds_Aug2022.png)| Link |
 | Sep 23, 2022  | DySE - a framework that evolves to reason about complex systems  | Natasa Miskov-Zivanov, PhD  | University of Pittsburgh  | [Link](https://github.com/pitthi/grand-rounds/blob/gh-pages/flyers/HI_GrandRounds_Sep2022.png)| Link |
-| Oct 7, 2022  | Open Health Natural Language Processing (OHNLP) Initiative: A collaborative effort towards health NLP under the AI ethics framework  | Hongfang Liu, PhD  | Mayo Clinic  | [Link](https://github.com/pitthi/grand-rounds/blob/gh-pages/flyers/HI_GrandRounds_Sep2022.png)| Link |
-
-SHRS HI Grand Rounds_October2022.png
+| Oct 7, 2022  | Open Health Natural Language Processing (OHNLP) Initiative: A collaborative effort towards health NLP under the AI ethics framework  | Hongfang Liu, PhD  | Mayo Clinic  | [Link](https://github.com/pitthi/grand-rounds/blob/gh-pages/flyers/HI_GrandRounds_October2022.png)| Link |
 
 ## Contact
 If you would like to present at the Health Informatics Grand Rounds, or have a question, please contact [Dr. Yanshan Wang](https://sites.pitt.edu/~yaw89/) or [Dr. Ahmad Tafti](https://aptafti.github.io/).
